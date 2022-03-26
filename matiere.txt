@@ -1,0 +1,3 @@
+00001Math      Informatique                  3.00000
+00002Math      Algorithme                    2.00000
+00004Science   Arabe                         01.00

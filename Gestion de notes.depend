@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1512495075 source:c:\users\g i e\desktop\info\code source\tp4\gestion de notes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"econio.h"
+	"econio.cpp"
+
+1431182336 c:\users\g i e\desktop\info\code source\tp4\gestion de notes\econio.h
+	<windows.h>
+	<conio.h>
+
+1431182330 c:\users\g i e\desktop\info\code source\tp4\gestion de notes\econio.cpp
+	"econio.h"
+
+1513593992 source:c:\users\g i e\desktop\info\code source\tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"econio.h"
+	"econio.cpp"
+
+1431182336 c:\users\g i e\desktop\info\code source\tp5\econio.h
+	<windows.h>
+	<conio.h>
+
+1431182330 c:\users\g i e\desktop\info\code source\tp5\econio.cpp
+	"econio.h"
+
